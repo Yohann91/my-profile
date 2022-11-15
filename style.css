@@ -1,0 +1,84 @@
+body {
+ background-color:white ;
+color: rgb(127, 98, 98);
+font-family: Arial;
+font-size: 17px;
+}
+h1 {
+font-family: Arial Black;	
+color: rgb(0, 0, 0);
+font-weight: 100;
+letter-spacing: 2,7px;
+font-size: 35px;
+}  
+
+h2 {
+font-family: Arial Black;
+color:rgb(41 33 33) ;
+font-weight: 40px;
+letter-spacing: 2,7px;
+font-size: 23px;
+} 
+
+a {
+font-family: Arial Black;	
+text-decoration: none;
+color: rgb(203 32 32);
+}
+a:hover {
+color: black;
+}	
+
+#logo {
+width: 150px;
+}
+
+
+/ Costume Design with class /
+
+.container {
+width: 700px;
+margin: 40px auto;
+}
+
+.cart-white {	
+background-color: rgb(202, 225, 219);
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+margin: 20px 0px;
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+.img-circle {
+border-radius: 50%;
+}
+
+.btn-blue {
+background-color: rgb(48 129 130);	
+color: white;
+padding: 15px 20px;
+border-radius: 4px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+.list-inline li {
+ display: inline;
+ padding: 10px;
+}
+
+.list-inline i {
+font-size: 50px;
+color: rgb(48 129 130);
+}
+
+#introduction p {
+margin-bottom: 40px;
+}	
